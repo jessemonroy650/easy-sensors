@@ -1,11 +1,11 @@
-= NOTES =
+# NOTES #
 Date: 2015-11-02
 
 |    sensor   |  source/price |
-|-------------|---------------|
+|-------------|--------------:|
 | load        | [adafruit](http://www.adafruit.com/products/166) $7.00<br>[sparkfun](https://www.sparkfun.com/products/10245) $9.95<br>[ebay](http://www.ebay.com/itm/M-Electronic-Balance-Weighing-Load-Cell-Sensor-0-5Kg-K-/331571837632) $2.50 |
 | weight      | [adafruit](http://www.adafruit.com/products/166) $7.95<br>[sparkfun]()<br>[ebay](http://www.ebay.com/itm/M-Electronic-Balance-Weighing-Load-Cell-Sensor-0-5Kg-K-/331571837632) $2.50 |
-| PIR         | [adafruit](http://www.adafruit.com/products/189)  $9.95<br>[sparkfun](https://www.sparkfun.com/products/13285) $9.95<br>[ebay]() |
+| PIR         | [adafruit](http://www.adafruit.com/products/189)  $9.95<br>[sparkfun](https://www.sparkfun.com/products/13285) $9.95<br>ebay |
 | Mini Photocell<br>(photo detector) | [adafruit](http://www.adafruit.com/products/161) $0.95<br>[sparkfun](https://www.sparkfun.com/products/9088) $1.50<br>[ebay](http://www.ebay.com/itm/20x-5537CDS-Photo-Light-Dependent-Sensitive-Resistor-Photoresistor-LDR-Photocell-/271591239495) 20 @ $3.99<br> |
 | Ambient Light<br>(TEMT6000) | [adafruit](http://www.adafruit.com/products/1384) $3.95<br>[sparkfun](https://www.sparkfun.com/products/8348) $1.50<br>[ebay](http://www.ebay.com/itm/1pcs-TEMT6000-Light-Sensor-TEMT6000-Professional-Light-Sensor-IC-NEW-/262030683849) $3.70 |
 | Tilt <br>(AT407) | [adafruit](http://www.adafruit.com/products/173) $2.00<br>[sparkfun](https://www.sparkfun.com/products/10289)  $1.95<br>[ebay](http://www.ebay.com/itm/Vibration-Knock-Sensor-5-Pack-Tilt-SW-18020P-AT407-Mercury-Free-5x-5pcs-/231740544669) 5 @ $3.83 |
