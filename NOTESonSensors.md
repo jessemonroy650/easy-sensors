@@ -25,9 +25,10 @@ Date: 2015-11-02
 - [Conductive Hook & Loop Tape (Velcro) - 3" long](http://www.adafruit.com/products/1324) $7.50<br>
 - [3M Z-Axis Conductive Tape 9703 - 2"x6" (50mm x 150mm) Strip](http://www.adafruit.com/products/1656) $4.95<br>
 - [ITO (Indium Tin Oxide) Coated Glass - 50mm x 50mm](http://www.adafruit.com/products/1310) $5.95<br>
-- [Pressure-Sensitive Conductive Sheet (Velostat/Linqstat)](http://www.adafruit.com/products/1361) $3.95<br>
-- [Hall effect sensor - US5881LUA](http://www.adafruit.com/products/158) $2.00<br>
-- [10K Precision Epoxy Thermistor - 3950 NTC](http://www.adafruit.com/products/372) $4.00<br>
+- [Pressure-Sensitive Conductive Sheet (Velostat/Linqstat)](http://www.adafruit.com/products/1361) $3.95
+- [Hall effect sensor - US5881LUA](http://www.adafruit.com/products/158) $2.00
+- [Door Activated LED Lighting using Hall Effect Sensors](http://www.instructables.com/id/Door-Activated-LED-Lighting-using-Hall-Effect-Sens/)
+- [10K Precision Epoxy Thermistor - 3950 NTC](http://www.adafruit.com/products/372) $4.00
 
 ### <a name=sparkfun>[SparkFun](https://www.sparkfun.com/)</a> ###
 
