@@ -33,16 +33,16 @@
         - https://www.sparkfun.com/products/9198 $2.95
 
 ## Alternative sensors ##
-    - [IR Break Beam Sensor - 3mm LEDs](http://www.adafruit.com/products/2167) $1.95
-        Car threshold crossing
-    - [Hall effect sensor - US5881LUA](http://www.adafruit.com/products/158) $2.00
-        Door Open indicator
-    - [10K Precision Epoxy Thermistor - 3950 NTC](http://www.adafruit.com/products/372) $4.00
-        Ice/Cold Water/Beer/Tea
-    - [Electret Microphone](https://www.sparkfun.com/products/8635) $0.95
-        Baby monitor (100 ~ 10,000 Hz response)
-    - [Force Sensor](https://www.adafruit.com/products/166) $7.00
-        Door mat
+- [IR Break Beam Sensor - 3mm LEDs](http://www.adafruit.com/products/2167) $1.95
+    Car threshold crossing
+- [Hall effect sensor - US5881LUA](http://www.adafruit.com/products/158) $2.00
+    Door Open indicator
+- [10K Precision Epoxy Thermistor - 3950 NTC](http://www.adafruit.com/products/372) $4.00
+    Ice/Cold Water/Beer/Tea
+- [Electret Microphone](https://www.sparkfun.com/products/8635) $0.95
+    Baby monitor (100 ~ 10,000 Hz response)
+- [Force Sensor](https://www.adafruit.com/products/166) $7.00
+    Door mat
 
 
 ## [Adafruit Wearable](https://www.adafruit.com/category/65) ##
