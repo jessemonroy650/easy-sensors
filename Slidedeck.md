@@ -66,3 +66,9 @@
 - 138 https://www.youtube.com/watch?v=KwNGdAZKIr8 Flora Brake Light Backpack
 - 143 https://www.youtube.com/watch?v=3n9nRSYNg38 Flora GPS Jacket
 
+
+[Electret-mircophone](images/Electret-mircophone_08635-04-L.jpg)
+[Force-Sensor](images/Force-Sensor_166-00.jpg)
+[Hall-effect](images/Hall-effect_158-00.jpg)
+[IR-break](images/IR-break_2167-03.jpg)
+[Thermistor](images/Thermistor_372-00.jpg)
