@@ -5,6 +5,12 @@
 - What are sensor?
 - What is the CPU?
 - How does it connect to the Internet?
+- DEMO - Stream Video to Youtube
+- Review Parts Needed
+- Build a prototype
+- What about MFG?
+
+
 - DEMO - Stream video to Youtube | Wireless Security Camera with the Arduino Yun | Adafruit Learning System
     - https://learn.adafruit.com/wireless-security-camera-arduino-yun/introduction
     - https://learn.adafruit.com/wireless-security-camera-arduino-yun/stream-video-to-youtube

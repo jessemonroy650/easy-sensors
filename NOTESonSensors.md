@@ -29,7 +29,7 @@ Date: 2015-11-02
 - [Hall effect sensor - US5881LUA](http://www.adafruit.com/products/158) $2.00
 - [Door Activated LED Lighting using Hall Effect Sensors](http://www.instructables.com/id/Door-Activated-LED-Lighting-using-Hall-Effect-Sens/)
 - [10K Precision Epoxy Thermistor - 3950 NTC](http://www.adafruit.com/products/372) $4.00 **Best for Cold - upper limit 105°C**
-- [High Temp Waterproof DS18B20 Digital temperature sensor + extras]() $14.95 **upper limit 125°C**
+- [High Temp Waterproof DS18B20 Digital temperature sensor + extras](https://www.adafruit.com/products/642) $14.95 **upper limit 125°C**
 
 ### <a name=sparkfun>[SparkFun](https://www.sparkfun.com/)</a> ###
 
