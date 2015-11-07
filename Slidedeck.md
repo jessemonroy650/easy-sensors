@@ -1,8 +1,13 @@
-# Your prototype in a day. Your IOT business in a month. 
+# Your prototype in a day. Your IoT business in a month. 
 
-- What is IOT?
+- What is IoT?
 
     Sensor, attached to computer, attached to Internet.
+
+
+    The five Senses --> Sight, Sound, Smell, Touch, Taste --> 4 of 5 make IoT
+
+    Sensors can detect - Temperature, Tilt, Vibration, Smell, Sound, Light, Vision.
 
     - Nest- $3.2Bn [What Google Really Gets Out of Buying Nest for $3.2 Billion](http://www.wired.com/2014/01/googles-3-billion-nest-buy-finally-make-internet-things-real-us/) - Jan, 2014
     - Home24 - $0.8m [Home24 GmbH Financing Round of EUR 15.9 million](http://rocketinternet.pr.co/92518-home24-gmbh-financing-round-of-eur-15-9-million)
@@ -18,7 +23,7 @@
 
 |  sensor | computer | Internet |
 |------------------------------|------------------------------|------------------------------|
-| SimpleSensor  $0.95 - $7.50  | [Yun Mini Computer](http://world.arduino.org/en/arduino-yun-mini.html)  $60 | [firebase](https://www.firebase.com/pricing.html)/Internet $5/month |
+| [Simple Sensor](NOTESonSensors)  $0.95 - $7.50  | [Yun Mini Computer](http://world.arduino.org/en/arduino-yun-mini.html)  $60 | [firebase](https://www.firebase.com/pricing.html)/Internet $5/month |
 
 - What are sensor?
 - What is the CPU?
