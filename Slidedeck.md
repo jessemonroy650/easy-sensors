@@ -16,7 +16,6 @@
 
 - What does mine look like?
 
-|------------------------------|------------------------------|------------------------------|
 | SimpleSensor  $0.95 - $7.50  | [Yun Mini Computer](http://world.arduino.org/en/arduino-yun-mini.html)  $60 | [firebase](https://www.firebase.com/pricing.html)/Internet $5/month |
 
 - What are sensor?
