@@ -57,7 +57,7 @@
 
 - ALL https://www.youtube.com/playlist?list=PL2B8A7560BC19F361  (165+ videos)
 - 6 - 4:28 - no, too long - https://www.youtube.com/watch?v=Md7UDqD3qOE Datalogging (Lux/light) 
-- 36 - 1:17 - okay, 0-45? - https://www.youtube.com/watch?v=yzGJkQ9pjBk Smart phone mittens
+- 36 - 1:17 - <b>okay</b>, 0-45? - https://www.youtube.com/watch?v=yzGJkQ9pjBk Smart phone mittens
 - 41 - 2:28 - no, too complex - https://www.youtube.com/watch?v=1Cf8ERvKPcM Sound Sample Sweater
 - 44 - 1:56 - okay, 0-76? - https://www.youtube.com/watch?v=6ViN01uwC4A Zipper Switch with Conductive Thread
 - 46 - 1:34 - <b>good</b>, 0-79? - https://www.youtube.com/watch?v=iSfMxypw56g Solar Boost Bag
@@ -70,16 +70,20 @@
 - 101 - 1:07 - <b>good</b>, 0-43 - https://www.youtube.com/watch?v=JpRVCui5dt8 3D Printed LED Buckle
 - 106 - 5:28 - no, too long - https://www.youtube.com/watch?v=PjzeCkkP5w0 ICEdot Crash Sensor Teardown
 - 108 - 2:11 - <b>good</b>, 0:00-1:12  - https://www.youtube.com/watch?v=gWZi71JkPAA Firewalker shoes
+- 10  - 5:21 - no, too long - https://www.youtube.com/watch?v=AMLBlb3VQxc Firewalker Q&A
+- 120 - 1:51 - <b>okay</b> - https://www.youtube.com/watch?v=B1fKMJpAPLQ Solar Charging Handbag
+- 138 - 8:26 - no, too long - https://www.youtube.com/watch?v=KwNGdAZKIr8 Flora Brake Light Backpack
+- 143 - 3:01 - no, not clear - https://www.youtube.com/watch?v=3n9nRSYNg38 Flora GPS Jacket
+
+**Video Notes**
+
 - https://www.youtube.com/v/gWZi71JkPAA&start=3&end=72&autoplay=1
 - v = video
 - gWZi71JkPAA = video ID
 - start = where to start
 - end = where to end
 - autoplay = tells to start playing immediately, default to 0
-- 10  - 5:21 - no, too long - https://www.youtube.com/watch?v=AMLBlb3VQxc Firewalker Q&A
-- 120 - 1:51 - <b>good</b> - https://www.youtube.com/watch?v=B1fKMJpAPLQ Solar Charging Handbag
-- 138 - 8:26 - no, too long - https://www.youtube.com/watch?v=KwNGdAZKIr8 Flora Brake Light Backpack
-- 143 - 3:01 - no, not clear - https://www.youtube.com/watch?v=3n9nRSYNg38 Flora GPS Jacket
+
 
 ## Pictures of sensors ##
 
