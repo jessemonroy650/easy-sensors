@@ -11,7 +11,7 @@
     - Nest- $3.2Bn [What Google Really Gets Out of Buying Nest for $3.2 Billion](http://www.wired.com/2014/01/googles-3-billion-nest-buy-finally-make-internet-things-real-us/) - Jan, 2014
     - Home24 - $0.8m [Home24 GmbH Financing Round of EUR 15.9 million](http://rocketinternet.pr.co/92518-home24-gmbh-financing-round-of-eur-15-9-million)
 
-    ![Nest Thermostat](nest-thermostat.png)
+![Nest Thermostat](nest-thermostat.png)
 
 - What about wearable?
 
