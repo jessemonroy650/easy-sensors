@@ -47,9 +47,11 @@
 
 ## robotics ##
 
-- [Ugobe's Pleo Robotic Dinosaur](https://www.youtube.com/watch?v=E0C55PEcj5E)
-- ["PLEO rb" Self-Learning Robot Pet Dinosaur Toy (@ 2015 CES)](https://www.youtube.com/watch?v=kOWF-L8Prxs)
-- [Herd of Pleos](https://www.youtube.com/watch?v=XFmY5iKopug)
+- [Ugobe's Pleo Robotic Dinosaur](https://www.youtube.com/watch?v=E0C55PEcj5E) (5:33) - posted 9 years agao
+- ["PLEO rb" Self-Learning Robot Pet Dinosaur Toy (@ 2015 CES)](https://www.youtube.com/watch?v=kOWF-L8Prxs) (0:12)
+- [Herd of Pleos](https://www.youtube.com/watch?v=XFmY5iKopug) (2:59)
+- [Pleo rb - Quick Start](https://www.youtube.com/watch?v=1bOYMqqkpWM) (5:24) - Notice the complexity
+- [Kota](https://www.youtube.com/watch?v=w5c3Wq0jpps)
 
 ## [Adafruit Wearable](https://www.adafruit.com/category/65) ##
 
@@ -80,6 +82,7 @@
 - 143 - 3:01 - no, not clear - https://www.youtube.com/watch?v=3n9nRSYNg38 Flora GPS Jacket
 
 ## Pictures of sensors ##
+
 [Electret-mircophone](images/Electret-mircophone_08635-04-L.jpg)
 [Force-Sensor](images/Force-Sensor_166-00.jpg)
 [Hall-effect](images/Hall-effect_158-00.jpg)
