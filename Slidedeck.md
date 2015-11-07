@@ -1,8 +1,24 @@
 # Your prototype in a day. Your IOT business in a month. 
 
 - What is IOT?
+
+    Sensor, attached to computer, attached to Internet.
+
+    - Nest- $3.2Bn [What Google Really Gets Out of Buying Nest for $3.2 Billion](http://www.wired.com/2014/01/googles-3-billion-nest-buy-finally-make-internet-things-real-us/) - Jan, 2014
+    - Home24 - $0.8m [Home24 GmbH Financing Round of EUR 15.9 million](http://rocketinternet.pr.co/92518-home24-gmbh-financing-round-of-eur-15-9-million)
+
 - What about wearable?
+
+    Sensor, attached to smartphone (computer), attached to Internet.
+
+    - Fitbit - $4.1Bn  [Fitbit soars 20% on second trading day](http://www.cnbc.com/2015/06/22/fitbit-stock-opens-up-more-than-10.html) - June, 2015
+    - Jawbone - $3.3Bn [Jawbone raises $250 million, valuing company at $3.3 billion](http://www.cnbc.com/2014/02/13/jawbone-raises-250-million-valuing-company-at-33-billion.html) - Feb, 2015
+
 - What does mine look like?
+
+   |------------------------------|------------------------------|------------------------------|
+   | SimpleSensor  $0.95 - $7.50  | [Yun Mini Computer](http://world.arduino.org/en/arduino-yun-mini.html)  $60 | [firebase](https://www.firebase.com/pricing.html)/Internet $5/month |
+
 - What are sensor?
 - What is the CPU?
 - How does it connect to the Internet?
@@ -64,7 +80,7 @@
 - 52 - 1:40 - <b>good</b>, 0-75? - https://www.youtube.com/watch?v=yJdcs6RxrKc Costume Switches and Triggers
 - 64 - 2:35 - no, too technical - https://www.youtube.com/watch?v=kolq3eSu4ug Rugged Wearable Electronics
 - 67 - 2:04 - no, too technical -https://www.youtube.com/watch?v=ID9dJE75VQU GPS Logging Dog Harness
-- 79 - 1:32 - <b>good</b>, 0-55 - https://www.youtube.com/watch?v=obBYHfIoZCs Chirping Plush Owl Toy
+- 79 - 1:32 - <b>no, unless Pleo</b>, 0-55 - https://www.youtube.com/watch?v=obBYHfIoZCs Chirping Plush Owl Toy
 - 94 - 5:25 - no, too long - https://www.youtube.com/watch?v=_YuwuOkeE4I Fitbit Force Teardown
 - 96 - 1:49 - no, too complex -https://www.youtube.com/watch?v=x7Q_YpfEJvY Cell Phone Charging Purse (induction)
 - 101 - 1:07 - <b>good</b>, 0-43 - https://www.youtube.com/watch?v=JpRVCui5dt8 3D Printed LED Buckle
