@@ -33,6 +33,7 @@
         - https://www.sparkfun.com/products/9198 $2.95
 
 ## Alternative sensors ##
+
 - [IR Break Beam Sensor - 3mm LEDs](http://www.adafruit.com/products/2167) $1.95
     Car threshold crossing
 - [Hall effect sensor - US5881LUA](http://www.adafruit.com/products/158) $2.00
@@ -44,12 +45,14 @@
 - [Force Sensor](https://www.adafruit.com/products/166) $7.00
     Door mat
 
+## robotics ##
 
 - [Ugobe's Pleo Robotic Dinosaur](https://www.youtube.com/watch?v=E0C55PEcj5E)
 - ["PLEO rb" Self-Learning Robot Pet Dinosaur Toy (@ 2015 CES)](https://www.youtube.com/watch?v=kOWF-L8Prxs)
 - [Herd of Pleos](https://www.youtube.com/watch?v=XFmY5iKopug)
 
 ## [Adafruit Wearable](https://www.adafruit.com/category/65) ##
+
 - ALL https://www.youtube.com/playlist?list=PL2B8A7560BC19F361  (165+ videos)
 - 6 - 4:28 - no, too long - https://www.youtube.com/watch?v=Md7UDqD3qOE Datalogging (Lux/light) 
 - 36 - 1:17 - okay, 0-45? - https://www.youtube.com/watch?v=yzGJkQ9pjBk Smart phone mittens
@@ -76,7 +79,7 @@
 - 138 - 8:26 - no, too long - https://www.youtube.com/watch?v=KwNGdAZKIr8 Flora Brake Light Backpack
 - 143 - 3:01 - no, not clear - https://www.youtube.com/watch?v=3n9nRSYNg38 Flora GPS Jacket
 
-
+## Pictures of sensors ##
 [Electret-mircophone](images/Electret-mircophone_08635-04-L.jpg)
 [Force-Sensor](images/Force-Sensor_166-00.jpg)
 [Hall-effect](images/Hall-effect_158-00.jpg)
