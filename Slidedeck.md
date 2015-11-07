@@ -45,26 +45,36 @@
     Door mat
 
 
+- [Ugobe's Pleo Robotic Dinosaur](https://www.youtube.com/watch?v=E0C55PEcj5E)
+- ["PLEO rb" Self-Learning Robot Pet Dinosaur Toy (@ 2015 CES)](https://www.youtube.com/watch?v=kOWF-L8Prxs)
+- [Herd of Pleos](https://www.youtube.com/watch?v=XFmY5iKopug)
+
 ## [Adafruit Wearable](https://www.adafruit.com/category/65) ##
 - ALL https://www.youtube.com/playlist?list=PL2B8A7560BC19F361  (165+ videos)
-- 6 https://www.youtube.com/watch?v=Md7UDqD3qOE Datalogging (Lux/light)
-- 36 https://www.youtube.com/watch?v=yzGJkQ9pjBk Smart phone mittens
-- 41 https://www.youtube.com/watch?v=1Cf8ERvKPcM Sound Sample Sweater
-- 44 https://www.youtube.com/watch?v=6ViN01uwC4A Zipper Switch with Conductive Thread
-- 46 https://www.youtube.com/watch?v=iSfMxypw56g Solar Boost Bag
-- 52 https://www.youtube.com/watch?v=yJdcs6RxrKc Costume Switches and Triggers
-- 64 https://www.youtube.com/watch?v=kolq3eSu4ug Rugged Wearable Electronics
-- 67 https://www.youtube.com/watch?v=ID9dJE75VQU GPS Logging Dog Harness
-- 79 https://www.youtube.com/watch?v=obBYHfIoZCs Chirping Plush Owl Toy
-- 94 https://www.youtube.com/watch?v=_YuwuOkeE4I Fitbit Force Teardown
-- 96 https://www.youtube.com/watch?v=x7Q_YpfEJvY Cell Phone Charging Purse (induction)
-- 101 https://www.youtube.com/watch?v=JpRVCui5dt8 3D Printed LED Buckle
-- 106 https://www.youtube.com/watch?v=PjzeCkkP5w0 ICEdot Crash Sensor Teardown
-- 108 https://www.youtube.com/watch?v=gWZi71JkPAA Firewalker shoes
-- 10  https://www.youtube.com/watch?v=AMLBlb3VQxc Firewalker Q&A
-- 120 https://www.youtube.com/watch?v=B1fKMJpAPLQ Solar Charging Handbag
-- 138 https://www.youtube.com/watch?v=KwNGdAZKIr8 Flora Brake Light Backpack
-- 143 https://www.youtube.com/watch?v=3n9nRSYNg38 Flora GPS Jacket
+- 6 - 4:28 - no, too long - https://www.youtube.com/watch?v=Md7UDqD3qOE Datalogging (Lux/light) 
+- 36 - 1:17 - okay, 0-45? - https://www.youtube.com/watch?v=yzGJkQ9pjBk Smart phone mittens
+- 41 - 2:28 - no, too complex - https://www.youtube.com/watch?v=1Cf8ERvKPcM Sound Sample Sweater
+- 44 - 1:56 - okay, 0-76? - https://www.youtube.com/watch?v=6ViN01uwC4A Zipper Switch with Conductive Thread
+- 46 - 1:34 - good, 0-79? - https://www.youtube.com/watch?v=iSfMxypw56g Solar Boost Bag
+- 52 - 1:40 - good, 0-75? - https://www.youtube.com/watch?v=yJdcs6RxrKc Costume Switches and Triggers
+- 64 - 2:35 - no, too technical - https://www.youtube.com/watch?v=kolq3eSu4ug Rugged Wearable Electronics
+- 67 - 2:04 - no, too technical -https://www.youtube.com/watch?v=ID9dJE75VQU GPS Logging Dog Harness
+- 79 - 1:32 - good, 0-55 - https://www.youtube.com/watch?v=obBYHfIoZCs Chirping Plush Owl Toy
+- 94 - 5:25 - no, too long - https://www.youtube.com/watch?v=_YuwuOkeE4I Fitbit Force Teardown
+- 96 - 1:49 - no, too complex -https://www.youtube.com/watch?v=x7Q_YpfEJvY Cell Phone Charging Purse (induction)
+- 101 - 1:07 - good, 0-43 - https://www.youtube.com/watch?v=JpRVCui5dt8 3D Printed LED Buckle
+- 106 - 5:28 - no, too long - https://www.youtube.com/watch?v=PjzeCkkP5w0 ICEdot Crash Sensor Teardown
+- 108 - 2:11 - good, 0:00-1:12  - https://www.youtube.com/watch?v=gWZi71JkPAA Firewalker shoes
+- https://www.youtube.com/v/gWZi71JkPAA&start=3&end=72&autoplay=1
+- v = video
+- gWZi71JkPAA = video ID
+- start = where to start
+- end = where to end
+- autoplay = tells to start playing immediately, default to 0
+- 10  - 5:21 - no, too long - https://www.youtube.com/watch?v=AMLBlb3VQxc Firewalker Q&A
+- 120 - 1:51 - ok - https://www.youtube.com/watch?v=B1fKMJpAPLQ Solar Charging Handbag
+- 138 - 8:26 - no, too long - https://www.youtube.com/watch?v=KwNGdAZKIr8 Flora Brake Light Backpack
+- 143 - 3:01 - no, not clear - https://www.youtube.com/watch?v=3n9nRSYNg38 Flora GPS Jacket
 
 
 [Electret-mircophone](images/Electret-mircophone_08635-04-L.jpg)
