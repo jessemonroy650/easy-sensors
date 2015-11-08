@@ -1,37 +1,9 @@
 # Your prototype in a day. Your IoT business in a month. 
 
+
 - What is IoT?
-
-    Sensor, attached to computer, attached to Internet.
-
-    The five Senses --> Sight, Sound, Smell, Touch, Taste --> 4 of 5 make IoT
-
-    Sensors can detect - Light, Vision, Sound, Smell, Temperature, Tilt, Vibration.
-
-    - Nest- $3.2Bn [What Google Really Gets Out of Buying Nest for $3.2 Billion](http://www.wired.com/2014/01/googles-3-billion-nest-buy-finally-make-internet-things-real-us/) - Jan, 2014
-    - Home24 - $0.8m [Home24 GmbH Financing Round of EUR 15.9 million](http://rocketinternet.pr.co/92518-home24-gmbh-financing-round-of-eur-15-9-million)
-
-    ![Nest Thermostat](images/nest-thermostat.jpg)
-
 - What about wearable?
-
-    Sensor, attached to smartphone (computer), attached to Internet.
-
-    - Fitbit - $4.1Bn  [Fitbit soars 20% on second trading day](http://www.cnbc.com/2015/06/22/fitbit-stock-opens-up-more-than-10.html) - June, 2015
-    - Jawbone - $3.3Bn [Jawbone raises $250 million, valuing company at $3.3 billion](http://www.cnbc.com/2014/02/13/jawbone-raises-250-million-valuing-company-at-33-billion.html) - Feb, 2015
-
-    ![Fitbit Tracker](images/fitbit-tracker.png)
-
-- What does mine look like?
-
-|  sensor | computer | Internet |
-|------------------------------|------------------------------|------------------------------|
-| [Simple Sensor](NOTESonSensors.md)  $0.95 - $7.50  | [Yun Mini Computer](http://world.arduino.org/en/arduino-yun-mini.html)  $60 | [firebase](https://www.firebase.com/pricing.html)/Internet $5/month |
-
 - What are sensor?
-
-    - [Simple Sensor](NOTESonSensors.md)
-
 - What is the CPU?
 - How does it connect to the Internet?
 - DEMO - Stream Video to Youtube
@@ -40,8 +12,52 @@
 - What about MFG?
 
 
+##What is IoT?##
 
+    Sensor, attached to computer, attached to Internet.
 
+    The five Senses --> Sight, Sound, Smell, Touch, Taste --> 4 of 5 make IoT
+
+    Sensors can detect - Light, Vision, Sound, Smell, Temperature, Tilt, Vibration, and more.
+
+    - Nest- $3.2Bn [What Google Really Gets Out of Buying Nest for $3.2 Billion](http://www.wired.com/2014/01/googles-3-billion-nest-buy-finally-make-internet-things-real-us/) - Jan, 2014
+    - Home24 - $0.8m [Home24 GmbH Financing Round of EUR 15.9 million](http://rocketinternet.pr.co/92518-home24-gmbh-financing-round-of-eur-15-9-million) - Dec, 2014
+
+    ![Nest Thermostat](images/nest-thermostat.jpg)
+
+##What about wearable?##
+
+    Sensor, attached to smartphone (computer), attached to Internet.
+
+    - Fitbit - $4.1Bn  [Fitbit soars 20% on second trading day](http://www.cnbc.com/2015/06/22/fitbit-stock-opens-up-more-than-10.html) - June, 2015
+    - Jawbone - $3.3Bn [Jawbone raises $250 million, valuing company at $3.3 billion](http://www.cnbc.com/2014/02/13/jawbone-raises-250-million-valuing-company-at-33-billion.html) - Feb, 2015
+
+    ![Fitbit Tracker](images/fitbit-tracker.png)
+
+##What does mine look like?##
+
+|  sensor | computer | Internet |
+|------------------------------|------------------------------|------------------------------|
+| [Simple Sensor](NOTESonSensors.md)  $0.95 - $7.50  | [Yun Mini Computer](http://world.arduino.org/en/arduino-yun-mini.html)  $60 | [firebase](https://www.firebase.com/pricing.html)/Internet $5/month |
+
+##What are sensor?##
+
+    - [Simple Sensor](NOTESonSensors.md)
+
+##What is the CPU?##
+##How does it connect to the Internet?##
+##DEMO - Stream Video to Youtube##
+##Review Parts Needed##
+##Build a prototype##
+##What about MFG?##
+
+----
+
+#Separate Section#
+
+----
+
+###DEMO###
 - DEMO - Stream video to Youtube | Wireless Security Camera with the Arduino Yun | Adafruit Learning System
     - https://learn.adafruit.com/wireless-security-camera-arduino-yun/introduction
     - https://learn.adafruit.com/wireless-security-camera-arduino-yun/stream-video-to-youtube
@@ -60,7 +76,7 @@
         - http://www.adafruit.com/products/1740 $0.95
         - https://www.sparkfun.com/products/9198 $2.95
 
-## Alternative sensors ##
+### Alternative sensors ###
 
 - [IR Break Beam Sensor - 3mm LEDs](http://www.adafruit.com/products/2167) $1.95
     Car threshold crossing
@@ -73,7 +89,7 @@
 - [Force Sensor](https://www.adafruit.com/products/166) $7.00
     Door mat
 
-## robotics ##
+### robotics ####
 
 - [Ugobe's Pleo Robotic Dinosaur](https://www.youtube.com/watch?v=E0C55PEcj5E) (5:33) - posted 9 years agao
 - ["PLEO rb" Self-Learning Robot Pet Dinosaur Toy (@ 2015 CES)](https://www.youtube.com/watch?v=kOWF-L8Prxs) (0:12)
@@ -81,7 +97,7 @@
 - [Pleo rb - Quick Start](https://www.youtube.com/watch?v=1bOYMqqkpWM) (5:24) - Notice the complexity
 - [Kota](https://www.youtube.com/watch?v=w5c3Wq0jpps)
 
-## [Adafruit Wearable](https://www.adafruit.com/category/65) ##
+#### [Adafruit Wearable](https://www.adafruit.com/category/65) ####
 
 - ALL https://www.youtube.com/playlist?list=PL2B8A7560BC19F361  (165+ videos)
 - 6 - 4:28 - no, too long - https://www.youtube.com/watch?v=Md7UDqD3qOE Datalogging (Lux/light) 
@@ -113,7 +129,7 @@
 - autoplay = tells to start playing immediately, default to 0
 
 
-## Pictures of sensors ##
+### Pictures of sensors ###
 
 [Electret-mircophone](images/Electret-mircophone_08635-04-L.jpg)
 [Force-Sensor](images/Force-Sensor_166-00.jpg)
