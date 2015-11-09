@@ -55,7 +55,7 @@ Sensor, attached to smartphone (computer), attached to Internet.
 ##What does mine look like?##
 
 |  sensor | computer | Internet | Total |
-|------------------------------|------------------------------|------------------------------|
+|------------------------------|------------------------------|------------------------------|-------|
 | [Simple Sensor](NOTESonSensors.md)  $0.95 - $7.50  | [Yun Mini Computer](http://world.arduino.org/en/arduino-yun-mini.html)  $60 | [firebase](https://www.firebase.com/pricing.html)/Internet $5/month | $67.50 + $5/month |
 
 ##What are sensor?##
