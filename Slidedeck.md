@@ -43,10 +43,29 @@ Sensor, attached to smartphone (computer), attached to Internet.
 
 ##What are sensor?##
 
-    - [Simple Sensor](NOTESonSensors.md)
+- [Simple Sensor](NOTESonSensors.md)
+
+|    sensor   |  source/price |
+|-------------|--------------:|
+| load/force  | [adafruit](http://www.adafruit.com/products/166) $7.00<br>[sparkfun](https://www.sparkfun.com/products/10245) $9.95<br>[ebay](http://www.ebay.com/itm/M-Electronic-Balance-Weighing-Load-Cell-Sensor-0-5Kg-K-/331571837632) $2.50 |
+| PIR         | [adafruit](http://www.adafruit.com/products/189)  $9.95<br>[sparkfun](https://www.sparkfun.com/products/13285) $9.95<br>[ebay](http://www.ebay.com/itm/HC-SR501-Adjust-IR-Pyroelectric-Infrared-PIR-Motion-Sensor-Detector-Module-NEW-/271638488228) $1.35 |
+| Mini Photocell<br>(photo detector) | [adafruit](http://www.adafruit.com/products/161) $0.95<br>[sparkfun](https://www.sparkfun.com/products/9088) $1.50<br>[ebay](http://www.ebay.com/itm/20x-5537CDS-Photo-Light-Dependent-Sensitive-Resistor-Photoresistor-LDR-Photocell-/271591239495) 20 @ $3.99<br> |
+| Ambient Light<br>(TEMT6000) | [adafruit](http://www.adafruit.com/products/1384) $3.95<br>[sparkfun](https://www.sparkfun.com/products/8348) $1.50<br>[ebay](http://www.ebay.com/itm/1pcs-TEMT6000-Light-Sensor-TEMT6000-Professional-Light-Sensor-IC-NEW-/262030683849) $3.70 |
+| Tilt <br>(AT407) | [adafruit](http://www.adafruit.com/products/173) $2.00<br>[sparkfun](https://www.sparkfun.com/products/10289)  $1.95<br>[ebay](http://www.ebay.com/itm/Vibration-Knock-Sensor-5-Pack-Tilt-SW-18020P-AT407-Mercury-Free-5x-5pcs-/231740544669) 5 @ $3.83 |
+| Piezo Vibration<br>(large) | [adafruid](http://www.adafruit.com/products/1739) $0.95<br>[sparkfun](https://www.sparkfun.com/products/9196) $2.95<br>[ebay](http://www.ebay.com/itm/Piezo-Vibration-Sensor-Large-with-Mass-/201425621872) $3.00 |
+| temperature<br>(TMP36) | [adafruid](http://www.adafruit.com/products/165) $1.50<br>[sparkfun](https://www.sparkfun.com/products/10988) $1.50<br>[ebay](http://www.ebay.com/itm/1pcs-TMP36GT9-ORIGINAL-Low-Voltage-Temperature-Sensors-/181004901020) $1.36<br>[ebay](http://www.ebay.com/itm/5pcs-TMP36GT9-ORIGINAL-Low-Voltage-Temperature-Sensors-/181004901551) $5.31 |
+
 
 ##What is the CPU?##
+
+- [Arduino Yun](http://world.arduino.org/en/arduino-yun.html)/[Mini](http://world.arduino.org/en/arduino-yun-mini.html)/[Tian](http://www.arduino.org/products/boards/4-arduino-boards/arduino-tian)
+- [Beagle Bone Black](http://beagleboard.org/BLACK)
+- [Raspberry Pi 2](https://www.raspberrypi.org/blog/raspberry-pi-2-on-sale/)
+
 ##How does it connect to the Internet?##
+
+
+
 ##DEMO - Stream Video to Youtube##
 ##Review Parts Needed##
 ##Build a prototype##
