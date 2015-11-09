@@ -77,14 +77,25 @@ Sensor, attached to smartphone (computer), attached to Internet.
         - http://www.adafruit.com/products/1740 $0.95
         - https://www.sparkfun.com/products/9198 $2.95
 
+- [21 Arduino Modules You Can Buy For Less Than $2](http://randomnerdtutorials.com/21-arduino-modules-you-can-buy-for-less-than-2/)
+
 ### Alternative sensors ###
 
 - [IR Break Beam Sensor - 3mm LEDs](http://www.adafruit.com/products/2167) $1.95
-    - IR [Break Beam](https://learn.adafruit.com/ir-breakbeam-sensors) - LadyAda
     - Car threshold crossing
+    - **break beam**
+    - IR [Break Beam](https://learn.adafruit.com/ir-breakbeam-sensors) - LadyAda    
     - [IR beam break](https://www.youtube.com/watch?v=r8SO79ouZOQ) - (Video) - basic prototype
     - [IR Beam Trip Counter](https://www.youtube.com/watch?v=eG1iznh_6Xw) - (Video) -
     - [Arduino LCD Tachometer RPM Meter](https://www.youtube.com/watch?v=KJMnifnYJXs) - (Video) - Using IR Break Beam
+    - **proximity**
+    - [How to Use IR LED and Photodiode](http://startrobotics.blogspot.com/2013/05/how-to-use-ir-led-and-photodiode-with-arduino.html)
+    - [Simple IR proximity sensor](http://www.instructables.com/id/Simple-IR-proximity-sensor-with-Arduino/?ALLSTEPS)
+    - **level detection** (light intensity)
+    - [Pulse Sensor](http://www.instructables.com/id/Simple-DIY-Pulse-Sensor/?ALLSTEPS) - by shining a light through the finger and detecting the amount of light that passes through the finger using a photodiode.
+    - **Theory**
+    - [2 Pin Infrared Receiver](http://forum.arduino.cc/index.php?topic=315138.0)
+    - [How to make simple Infrared Sensor Modules](http://www.elecrom.com/2008/02/19/how-to-make-simple-infrared-sensor-modules/)
 - [Hall effect sensor - US5881LUA](http://www.adafruit.com/products/158) $2.00
     - Door Open indicator
     - [Magnet Sensor](http://www.hobbytronics.co.uk/arduino-tutorial11-hall-effect)
@@ -146,3 +157,8 @@ Sensor, attached to smartphone (computer), attached to Internet.
 [Hall-effect](images/Hall-effect_158-00.jpg)
 [IR-break](images/IR-break_2167-03.jpg)
 [Thermistor](images/Thermistor_372-00.jpg)
+
+----
+
+
+- [How to Build a Light Detector Circuit](http://www.learningaboutelectronics.com/Articles/Arduino-light-detector-circuit.php)
