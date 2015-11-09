@@ -80,9 +80,18 @@ Sensor, attached to smartphone (computer), attached to Internet.
 ### Alternative sensors ###
 
 - [IR Break Beam Sensor - 3mm LEDs](http://www.adafruit.com/products/2167) $1.95
-    Car threshold crossing
+    - IR [Break Beam](https://learn.adafruit.com/ir-breakbeam-sensors) - LadyAda
+    - Car threshold crossing
+    - [IR beam break](https://www.youtube.com/watch?v=r8SO79ouZOQ) - (Video) - basic prototype
+    - [IR Beam Trip Counter](https://www.youtube.com/watch?v=eG1iznh_6Xw) - (Video) -
+    - [Arduino LCD Tachometer RPM Meter](https://www.youtube.com/watch?v=KJMnifnYJXs) - (Video) - Using IR Break Beam
 - [Hall effect sensor - US5881LUA](http://www.adafruit.com/products/158) $2.00
-    Door Open indicator
+    - Door Open indicator
+    - [Magnet Sensor](http://www.hobbytronics.co.uk/arduino-tutorial11-hall-effect)
+    - [Magnet Sensor](http://diyhacking.com/arduino-hall-effect-sensor-tutorial/)
+    - [HALL EFFECT SENSOR WITH ARDUINO](https://www.youtube.com/watch?v=RWX_sCEiJmI) - (Video) - north pole, south pole
+    - [Arduino RPM Hall effect ](https://www.youtube.com/watch?v=ezYzIaY0wr0) - (Video) - alternate north/south
+    - [Using Various Hall Effect Sensors Tutorial, schematics and code](https://www.youtube.com/watch?v=EHB1m9UMi0s) - (Video) - fade, latch, switch
 - [10K Precision Epoxy Thermistor - 3950 NTC](http://www.adafruit.com/products/372) $4.00
     Ice/Cold Water/Beer/Tea
 - [Electret Microphone](https://www.sparkfun.com/products/8635) $0.95
