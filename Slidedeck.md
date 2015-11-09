@@ -26,6 +26,16 @@ Sensors can detect - Light, Vision, Sound, Smell, Temperature, Tilt, Vibration, 
 
 ![Nest Thermostat](images/nest-thermostat.jpg)
 
+- $249
+- LCD
+- Temperature
+- Humidity
+- Near-field activity
+- Far-field activity
+- Ambient light
+- Wifi
+- Battery (li-ion)
+
 ##What about wearable?##
 
 Sensor, attached to smartphone (computer), attached to Internet.
@@ -33,13 +43,20 @@ Sensor, attached to smartphone (computer), attached to Internet.
 - Fitbit - $4.1Bn  [Fitbit soars 20% on second trading day](http://www.cnbc.com/2015/06/22/fitbit-stock-opens-up-more-than-10.html) - June, 2015
 - Jawbone - $3.3Bn [Jawbone raises $250 million, valuing company at $3.3 billion](http://www.cnbc.com/2014/02/13/jawbone-raises-250-million-valuing-company-at-33-billion.html) - Feb, 2015
 
-![Fitbit Tracker](images/fitbit-tracker.png)
+![Fitbit Flex Tracker](images/fitbit-tracker.png)
+
+- $100
+- 3-axis accelerometer
+- Vibration motor
+- LED display
+- Radio transceiver: Bluetooth 4.0
+- Battery (5 days)
 
 ##What does mine look like?##
 
-|  sensor | computer | Internet |
+|  sensor | computer | Internet | Total |
 |------------------------------|------------------------------|------------------------------|
-| [Simple Sensor](NOTESonSensors.md)  $0.95 - $7.50  | [Yun Mini Computer](http://world.arduino.org/en/arduino-yun-mini.html)  $60 | [firebase](https://www.firebase.com/pricing.html)/Internet $5/month |
+| [Simple Sensor](NOTESonSensors.md)  $0.95 - $7.50  | [Yun Mini Computer](http://world.arduino.org/en/arduino-yun-mini.html)  $60 | [firebase](https://www.firebase.com/pricing.html)/Internet $5/month | $67.50 + $5/month |
 
 ##What are sensor?##
 
