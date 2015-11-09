@@ -58,13 +58,16 @@ Sensor, attached to smartphone (computer), attached to Internet.
 
 ##What is the CPU?##
 
-- [Arduino Yun](http://world.arduino.org/en/arduino-yun.html)/[Mini](http://world.arduino.org/en/arduino-yun-mini.html)/[Tian](http://www.arduino.org/products/boards/4-arduino-boards/arduino-tian)
-- [Beagle Bone Black](http://beagleboard.org/BLACK)
-- [Raspberry Pi 2](https://www.raspberrypi.org/blog/raspberry-pi-2-on-sale/)
+- [Arduino Yun](http://world.arduino.org/en/arduino-yun.html)/[Mini](http://world.arduino.org/en/arduino-yun-mini.html) - $65/$60
+- [Beagle Bone Black](http://beagleboard.org/BLACK) - $50
+- [Raspberry Pi 2](https://www.raspberrypi.org/blog/raspberry-pi-2-on-sale/) - $35(board)-$75(kit)
 
 ##How does it connect to the Internet?##
 
-
+- [firebase](http://firebase.com) - $5/month - realtime
+- [parse](http://parse.com) - sliding - near realtime
+- [StrongLoop](http://strongloop.com/) - $29 - node.js backend
+- [pubhub](http://pubnub.com) - $149 - realtime messaging
 
 ##DEMO - Stream Video to Youtube##
 ##Review Parts Needed##
