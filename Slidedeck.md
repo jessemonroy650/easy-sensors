@@ -1,6 +1,6 @@
-# Your prototype in a day. Your IoT business in a month. 
+#Your prototype in a day. Your IoT business in a month.#
 
-##What is will be seen##
+##What will be seen##
 
 - What is IoT?
 - What about wearable?
@@ -56,16 +56,16 @@ Sensor, attached to smartphone (computer), attached to Internet.
 
 |  sensor | computer | Internet | Total |
 |------------------------------|------------------------------|------------------------------|-------|
-| [Simple Sensor](NOTESonSensors.md)  $0.95 - $7.50  | [Yun Mini Computer](http://world.arduino.org/en/arduino-yun-mini.html)  $60 | [firebase](https://www.firebase.com/pricing.html)/Internet $5/month | $67.50<br>+ $0.05/month per user |
+| [Simple Sensors](NOTESonSensors.md)  $0.95 - $7.50  | [Yun Mini Computer](http://world.arduino.org/en/arduino-yun-mini.html)  $60 | [firebase](https://www.firebase.com/pricing.html)/Internet $5/month | $77.50 +<br>$0.05/month per user |
 
 ##What are sensor?##
 
-- [Simple Sensor](NOTESonSensors.md)
+- [Simple Sensors](NOTESonSensors.md)
 
 |    sensor   |  source/price |
 |-------------|--------------:|
 | load/force  | [adafruit](http://www.adafruit.com/products/166) $7.00<br>[sparkfun](https://www.sparkfun.com/products/10245) $9.95<br>[ebay](http://www.ebay.com/itm/M-Electronic-Balance-Weighing-Load-Cell-Sensor-0-5Kg-K-/331571837632) $2.50 |
-| PIR         | [adafruit](http://www.adafruit.com/products/189)  $9.95<br>[sparkfun](https://www.sparkfun.com/products/13285) $9.95<br>[ebay](http://www.ebay.com/itm/HC-SR501-Adjust-IR-Pyroelectric-Infrared-PIR-Motion-Sensor-Detector-Module-NEW-/271638488228) $1.35 |
+| PIR<br>Passive<br>Infrared | [adafruit](http://www.adafruit.com/products/189)  $9.95<br>[sparkfun](https://www.sparkfun.com/products/13285) $9.95<br>[ebay](http://www.ebay.com/itm/HC-SR501-Adjust-IR-Pyroelectric-Infrared-PIR-Motion-Sensor-Detector-Module-NEW-/271638488228) $1.35 |
 | Mini Photocell<br>(photo detector) | [adafruit](http://www.adafruit.com/products/161) $0.95<br>[sparkfun](https://www.sparkfun.com/products/9088) $1.50<br>[ebay](http://www.ebay.com/itm/20x-5537CDS-Photo-Light-Dependent-Sensitive-Resistor-Photoresistor-LDR-Photocell-/271591239495) 20 @ $3.99<br> |
 | Ambient Light<br>(TEMT6000) | [adafruit](http://www.adafruit.com/products/1384) $3.95<br>[sparkfun](https://www.sparkfun.com/products/8348) $1.50<br>[ebay](http://www.ebay.com/itm/1pcs-TEMT6000-Light-Sensor-TEMT6000-Professional-Light-Sensor-IC-NEW-/262030683849) $3.70 |
 | Tilt <br>(AT407) | [adafruit](http://www.adafruit.com/products/173) $2.00<br>[sparkfun](https://www.sparkfun.com/products/10289)  $1.95<br>[ebay](http://www.ebay.com/itm/Vibration-Knock-Sensor-5-Pack-Tilt-SW-18020P-AT407-Mercury-Free-5x-5pcs-/231740544669) 5 @ $3.83 |
@@ -73,7 +73,7 @@ Sensor, attached to smartphone (computer), attached to Internet.
 | temperature<br>(TMP36) | [adafruid](http://www.adafruit.com/products/165) $1.50<br>[sparkfun](https://www.sparkfun.com/products/10988) $1.50<br>[ebay](http://www.ebay.com/itm/1pcs-TMP36GT9-ORIGINAL-Low-Voltage-Temperature-Sensors-/181004901020) $1.36<br>[ebay](http://www.ebay.com/itm/5pcs-TMP36GT9-ORIGINAL-Low-Voltage-Temperature-Sensors-/181004901551) $5.31 |
 
 
-##What is the CPU?##
+##What is the Computer?##
 
 - [Arduino Yun](http://world.arduino.org/en/arduino-yun.html)/[Mini](http://world.arduino.org/en/arduino-yun-mini.html) - $65/$60
 - [Beagle Bone Black](http://beagleboard.org/BLACK) - $50
@@ -81,10 +81,10 @@ Sensor, attached to smartphone (computer), attached to Internet.
 
 ##How does it connect to the Internet?##
 
-- [firebase](http://firebase.com) - $5/month - realtime
-- [parse](http://parse.com) - sliding - near realtime
-- [StrongLoop](http://strongloop.com/) - $29 - node.js backend
-- [pubhub](http://pubnub.com) - $149 - realtime messaging
+- Google [firebase](https://www.firebase.com/pricing.html) - $5/month or $0.05/user month - realtime
+- Facebook [parse](https://parse.com/plans) - sliding - near realtime
+- IBM [StrongLoop](https://strongloop.com/node-js/subscription-plans/) - $29 - node.js backend
+- [pubhub](https://www.pubnub.com/pricing/) - $149 - realtime messaging
 
 ##DEMO - Stream Video to Youtube##
 ##Review Parts Needed##
