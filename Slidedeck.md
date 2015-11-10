@@ -56,7 +56,7 @@ Sensor, attached to smartphone (computer), attached to Internet.
 
 |  sensor | computer | Internet | Total |
 |------------------------------|------------------------------|------------------------------|-------|
-| [Simple Sensors](NOTESonSensors.md)  $0.95 - $7.50  | [Yun Mini Computer](http://world.arduino.org/en/arduino-yun-mini.html)  $60 | [firebase](https://www.firebase.com/pricing.html)/Internet $5/month | $77.50 +<br>$0.05/month per user |
+| [Simple Sensors](NOTESonSensors.md)  $0.95 - $7.50  | [Arduino Yun](https://www.sparkfun.com/products/12053)  $75 | [firebase](https://www.firebase.com/pricing.html)/Internet $5/month | $82.50 +<br>$0.05/month per user |
 
 ##What are sensor?##
 
@@ -88,6 +88,17 @@ Sensor, attached to smartphone (computer), attached to Internet.
 
 ##DEMO - Stream Video to Youtube##
 ##Review Parts Needed##
+
+- Arduino Yun (computer)
+    - https://www.sparkfun.com/products/12053
+- USB Camera  - http://en.wikipedia.org/wiki/List_of_USB_video_class_devices
+- PIR (Passive InfraRed) Sensor
+    - https://www.adafruit.com/product/189  $9.95
+    - https://www.sparkfun.com/products/13285 $9.95
+- Piezo Element - 
+    - http://www.adafruit.com/products/1740 $0.95
+    - https://www.sparkfun.com/products/9198 $2.95
+
 ##Build a prototype##
 ##What about MFG?##
 
