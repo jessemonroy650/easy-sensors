@@ -81,9 +81,9 @@ Sensor, attached to smartphone (computer), attached to Internet.
 
 ##How does it connect to the Internet?##
 
-- Google [firebase](https://www.firebase.com/pricing.html) - $5/month or $0.05/user month - realtime
-- Facebook [parse](https://parse.com/plans) - sliding - near realtime
-- IBM [StrongLoop](https://strongloop.com/node-js/subscription-plans/) - $29 - node.js backend
+- [firebase](https://www.firebase.com/pricing.html) - $5/month or $0.05/user month - realtime (Google)
+- [parse](https://parse.com/plans) - sliding - near realtime (Facebook)
+- [StrongLoop](https://strongloop.com/node-js/subscription-plans/) - $29 - node.js backend (IBM)
 - [pubhub](https://www.pubnub.com/pricing/) - $149 - realtime messaging
 
 ##DEMO - Stream Video to Youtube##
@@ -154,9 +154,10 @@ Sensor, attached to smartphone (computer), attached to Internet.
     - [Arduino RPM Hall effect ](https://www.youtube.com/watch?v=ezYzIaY0wr0) - (Video) - alternate north/south
     - [Using Various Hall Effect Sensors Tutorial, schematics and code](https://www.youtube.com/watch?v=EHB1m9UMi0s) - (Video) - fade, latch, switch
 - [10K Precision Epoxy Thermistor - 3950 NTC](http://www.adafruit.com/products/372) $4.00
-    Ice/Cold Water/Beer/Tea
+    - Ice/Cold Water/Beer/Tea
 - [Electret Microphone](https://www.sparkfun.com/products/8635) $0.95
-    Baby monitor (100 ~ 10,000 Hz response)
+    - Baby monitor (100 ~ 10,000 Hz response)
+    - [How to Build a Microphone using an Electret Mic](https://www.youtube.com/watch?v=dk1TXIeY6Fg)
 - [Force Sensor](https://www.adafruit.com/products/166) $7.00
     Door mat
 
