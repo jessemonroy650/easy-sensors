@@ -35,6 +35,8 @@ Mark Zuckerberg | CEO Facebook          | [16m14s-16m51s](https://www.youtube.co
 
 ## Human Senses ##
 
+https://en.wikipedia.org/wiki/Sense
+
 1. sight - ophthalmoception
 2. sound - audioception
 3. taste - gustaoception
