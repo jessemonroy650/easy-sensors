@@ -120,3 +120,40 @@ Ohms Law = I = V / R
 - http://myArduinoYun.local/arduino/analog/1/1023 : `analogWrite(A1,1023);`
 
 
+----
+
+## Polling vs Push ##
+
+
+- image of Polling
+- image of Push
+
+----
+
+## Yun Power Consumption ##
+
+http://playground.arduino.cc/Hardware/Yun#power_consumption
+
+| Power consumption in mA |
+
+ Configuration                              | min | typical |  max
+--------------------------------------------|-----|---------|------ 
+WiFi on, no wired connection, no sd         | 170 | 240     | 300
+WiFi on, wired connection, no sd            |     | 277	    |
+WiFi on, wired connection, no sd, max. load |     | 315     |
+
+Disabling the WiFi on the board saves ~20mA 
+
+----
+ 
+## Phonegap Overview ##
+
+- HTML5
+- CSS3
+- Javascript
+- Phonegap Plugin (Accelerometer, GPS, Camera, Media (audio), UI, etc)
+- Third-Party Plugin (Paypal, Urban Airship, Push, in-app Purchase, QR-code reader, [etc](https://cordova.apache.org/plugins/))
+- Javascript Library (User Interface, HTML5 API, etc)
+- Online Service (Parse (DB), Firebase (DB), PubHub (RT Messaging), Pushbot, etc)
+
+
