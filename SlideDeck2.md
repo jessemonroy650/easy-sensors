@@ -2,7 +2,10 @@
 Date: 2016-05-02<br>
 Last Update: 2016-05-03
 
-Ghustavo: make less abstract, more relatable
+- Ghustavo: make less abstract, more relatable
+- ME: reduce number of resistive sensors, put master list at end
+- ME: may be drop close up
+- ME: merge formula and table
 
 1. Quick Videos
 2. What is IoT?
@@ -12,8 +15,7 @@ Ghustavo: make less abstract, more relatable
 8. Ohm's Law
 9. Voltage Divider
 10. Close Up of Arduino Schematic
-11. Thermistor Formula
-12. Thermistor Table
+11. Thermistor Formula and Table
 12. Arduino Code
 13. Bridge Examples
 14. Control Protocol
@@ -106,16 +108,13 @@ Ohms Law => I = V / R
 - drawing of close up
 
 ----
-## Thermistor Formula ##
+## Thermistor Formula and Table ##
 
 - http://playground.arduino.cc/ComponentLib/Thermistor2
 - http://www.eidusa.com/Electronics_Kits_TEMP_THERMISTOR_1.htm
 
 - R = 10K * { (2V / Vout) -1}
 - 1/T = a + b ln(R) + c (ln(3))^3
-
-----
-## Thermistor Table ##
 
 ----
 ## Arduino Code ##
