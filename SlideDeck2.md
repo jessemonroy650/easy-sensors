@@ -1,5 +1,6 @@
 # Anatomy of an IoT System #
-Date: 2016-05-02
+Date: 2016-05-02<br>
+Last Update: 2016-05-03
 
 1. Quick Videos
 2. What is IoT?
@@ -149,7 +150,7 @@ Ohms Law => I = V / R
 Action        | URL | translates to code
 --------------|-----|--------------------
 Read Digital  | http://myArduinoYun.local/arduino/digital/13     | `digitalRead(13);`
-Write Digital | http://myArduinoYun.local/arduino/digital/13/1   | calls `digitalWrite(13,1);`
+Write Digital | http://myArduinoYun.local/arduino/digital/13/1   | `digitalWrite(13,1);`
 Write Analog  | http://myArduinoYun.local/arduino/analog/9/123   | `analogWrite(9,123);`
 Read Analog   | http://myArduinoYun.local/arduino/analog/2       | `analogRead(2);`
 Set Input     | http://myArduinoYun.local/arduino/mode/13/input  | `pinMode(13, INPUT);`
@@ -173,8 +174,8 @@ Write  | http://myArduinoYun.local/arduino/analog/1/1023 | `analogWrite(A1,1023)
 
 http://playground.arduino.cc/Hardware/Yun#power_consumption
 
-| Power consumption in mA |
-
+Power consumption in mA |
+--------------------------------------------|-----|---------|------ 
  Configuration                              | min | typical |  max
 --------------------------------------------|-----|---------|------ 
 WiFi on, no wired connection, no sd         | 170 | 240     | 300
@@ -187,6 +188,8 @@ Typical mobile phone battery is 800mA - 2000mA
 
 ----
 ## Phonegap Overview ##
+
+Tools available
 
 - HTML5
 - CSS3
