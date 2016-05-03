@@ -94,4 +94,9 @@ Ohms Law = I = V / R
 
 ## Sensor Formula ##
 
--
+- http://playground.arduino.cc/ComponentLib/Thermistor2
+- http://www.eidusa.com/Electronics_Kits_TEMP_THERMISTOR_1.htm
+
+- R = 10K * { (2V / Vout) -1}
+- 1/T = a + b ln(R) + c (ln(3))^3
+
