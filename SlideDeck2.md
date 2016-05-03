@@ -65,6 +65,20 @@ https://en.wikipedia.org/wiki/Sense
 
 ----
 
+## Sensor Vendors ##
+
+- [adafruit](http://www.adafruit.com/)
+- [sparkfun](http://www.sparkfun.com/)
+- [mouser](http://www.mouser.com/)
+- [digikey](http://www.digikey.com/)
+- [Seeed Studio](http://www.seeedstudio.com/depot/)
+- [Newark](http://www.newark.com/)
+- [Jameco](http://www.jameco.com/)
+
+- [Arduino List](http://playground.arduino.cc/Main/Resources)
+
+----
+
 ## Ohm's Law ##
 
 Ohms Law = I = V / R
