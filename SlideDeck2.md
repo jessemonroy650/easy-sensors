@@ -183,19 +183,18 @@ Write  | http://myArduinoYun.local/arduino/analog/1/1023 | `analogWrite(A1,1023)
 ----
 ## Yun Power Consumption ##
 
-http://playground.arduino.cc/Hardware/Yun#power_consumption
-
-Power consumption in mA | - | - | - |
 --------------------------------------------|-----|---------|------ 
- Configuration                              | min | typical |  max
+ Configuration*                             | min | typical |  max
 --------------------------------------------|-----|---------|------ 
 WiFi on, no wired connection, no sd         | 170 | 240     | 300
 WiFi on, wired connection, no sd            |     | 277	    |
 WiFi on, wired connection, no sd, max. load |     | 315     |
 
-Disabling the WiFi on the board saves ~20mA
+- Power consumption in mA 
+- Disabling the WiFi on the board saves ~20mA
+- Typical mobile phone battery is 800mA - 2000mA
 
-Typical mobile phone battery is 800mA - 2000mA
+http://playground.arduino.cc/Hardware/Yun#power_consumption
 
 ----
 ## Phonegap Overview ##
