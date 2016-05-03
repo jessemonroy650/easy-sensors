@@ -26,6 +26,7 @@ Last Update: 2016-05-03
 19. Ajax and JQuery
 6. CPU Vendors
 7. Sensor Vendors
+9. Bridge Tutorial
 
 ----
 ## Quick Videos ##
@@ -132,18 +133,6 @@ Ohms Law => I = V / R
 
 
 ----
-## Bridge Tutorial ##
-
-Action        | URL | translates to code
---------------|-----|--------------------
-Read Digital  | http://myArduinoYun.local/arduino/digital/13     | `digitalRead(13);`
-Write Digital | http://myArduinoYun.local/arduino/digital/13/1   | `digitalWrite(13,1);`
-Read Analog   | http://myArduinoYun.local/arduino/analog/2       | `analogRead(2);`
-Write Analog  | http://myArduinoYun.local/arduino/analog/9/123   | `analogWrite(9,123);`
-Set Input     | http://myArduinoYun.local/arduino/mode/13/input  | `pinMode(13, INPUT);`
-Set Output    | http://myArduinoYun.local/arduino/mode/13/output | `pinMode(13, OUTPUT);` 
-
-----
 ## Control Protocol ##
 
 R or W | URL | translates to code
@@ -222,4 +211,15 @@ WiFi on, wired connection, no sd, max. load |     | 315     |
 
 http://playground.arduino.cc/Hardware/Yun#power_consumption
 
+----
+## Bridge Tutorial ##
+
+Action        | URL | translates to code
+--------------|-----|--------------------
+Read Digital  | http://myArduinoYun.local/arduino/digital/13     | `digitalRead(13);`
+Write Digital | http://myArduinoYun.local/arduino/digital/13/1   | `digitalWrite(13,1);`
+Read Analog   | http://myArduinoYun.local/arduino/analog/2       | `analogRead(2);`
+Write Analog  | http://myArduinoYun.local/arduino/analog/9/123   | `analogWrite(9,123);`
+Set Input     | http://myArduinoYun.local/arduino/mode/13/input  | `pinMode(13, INPUT);`
+Set Output    | http://myArduinoYun.local/arduino/mode/13/output | `pinMode(13, OUTPUT);` 
 
