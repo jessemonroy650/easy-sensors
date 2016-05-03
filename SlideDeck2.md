@@ -1,22 +1,28 @@
 # Anatomy of an IoT System #
 Date: 2016-05-02
 
-0. Quick Videos
-1. System Overview
-2. Resistive Sensors
-3. Voltage Divider
-4. Arduino Schematic
-5. Sensor Formula
-6. Arduino Code
-7. Bridge Examples
-8. Actual Protocol
-9. Polling vs. Push
-10. Arduino Power Consumption
-11. Phonegap Tools
-12. HTML view
-13. Ajax and JQuery
+1. Quick Videos
+2. What is IoT?
+3. Human Senses
+4. System Overview
+5. Resistive Sensors
+6. CPU Vendors
+7. Sensor Vendors
+8. Ohm's Law
+9. Voltage Divider
+10. Close Up of Arduino Schematic
+11. Sensor Formula
+12. Arduino Code
+13. Bridge Examples
+14. Control Protocol
+15. Polling vs. Push
+16. Arduino Power Consumption
+17. Phonegap Tools
+18. HTML view
+19. Ajax and JQuery
 
 ----
+## Quick Videos ##
 
 Person          | Organization          | time marks
 ----------------|-----------------------|------------
@@ -26,14 +32,9 @@ Kevin Systrom   | CEO Instagram         | [8m8s-8m34s](https://www.youtube.com/w
 Mark Zuckerberg | CEO Facebook          | [16m14s-16m51s](https://www.youtube.com/watch?v=QoqohmccTSc&start=975)
 
 ----
-
-- image of hot and cold
-- image of Arduino Yun
-- image of Wifi Symbol
-- image of Mobile Phone
+## What is IoT? ##
 
 ----
-
 ## Human Senses ##
 
 https://en.wikipedia.org/wiki/Sense
@@ -46,6 +47,17 @@ https://en.wikipedia.org/wiki/Sense
 6. *balance* - equilibrioception
 7. *temperature* - thermoception
 8. *vibration* - mechanoreception
+
+----
+## System Overview ##
+
+- image of hot and cold
+- image of Arduino Yun
+- image of Wifi Symbol
+- image of Mobile Phone
+
+----
+## Resistive Sensors ##
 
 | Sense  |    sensor   |  source/price |
 |--------|-------------|--------------:|
@@ -64,7 +76,14 @@ https://en.wikipedia.org/wiki/Sense
 - small images of sensors
 
 ----
+## CPU Vendors ##
 
+- [Arduino Yun](https://www.arduino.cc/en/Main/ArduinoBoardYun), Yun Mini, Tian
+- [Particle Photon Kit](https://store.particle.io/)
+- [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/)
+- [BeagleBone Black](https://beagleboard.org/black)
+
+----
 ## Sensor Vendors ##
 
 - [adafruit](http://www.adafruit.com/)
@@ -78,7 +97,6 @@ https://en.wikipedia.org/wiki/Sense
 - [Arduino List](http://playground.arduino.cc/Main/Resources)
 
 ----
-
 ## Ohm's Law ##
 
 Ohms Law = I = V / R
@@ -88,7 +106,6 @@ Ohms Law = I = V / R
 
 
 ----
-
 ## Voltage Divider ##
 
 > a series of resistors or capacitors that can be tapped at any intermediate point to produce a specific fraction of the voltage applied between its ends.
@@ -97,7 +114,6 @@ Ohms Law = I = V / R
 - image of voltage divider circuit
 
 ----
-
 ## Close Up of Arduino Schematic ##
 
 - drawing of overview
@@ -105,7 +121,6 @@ Ohms Law = I = V / R
 
 
 ----
-
 ## Sensor Formula ##
 
 - http://playground.arduino.cc/ComponentLib/Thermistor2
@@ -115,7 +130,21 @@ Ohms Law = I = V / R
 - 1/T = a + b ln(R) + c (ln(3))^3
 
 ----
+## Arduino Code ##
 
+    const secondsDelay  3;
+
+    void loop () {
+         /* ::: */
+         temp = analogread(a0);
+         transTemp = translate(tem);
+         print (transTemp);
+         delay (1000 * secondsDelay);
+         /* ::: */
+    }
+
+
+----
 ## Bridge Tutorial ##
 
 - http://myArduinoYun.local/arduino/digital/13 : calls `digitalRead(13);`
@@ -126,7 +155,6 @@ Ohms Law = I = V / R
 - http://myArduinoYun.local/arduino/mode/13/output : `pinMode(13, OUTPUT);` 
 
 ----
-
 ## Control Protocol ##
 
 - http://myArduinoYun.local/arduino/analog/1 : `analogRead(A1);`
@@ -135,15 +163,10 @@ Ohms Law = I = V / R
 
 
 ----
-
 ## Polling vs Push ##
 
 
-- image of Polling
-- image of Push
-
 ----
-
 ## Yun Power Consumption ##
 
 http://playground.arduino.cc/Hardware/Yun#power_consumption
@@ -156,10 +179,11 @@ WiFi on, no wired connection, no sd         | 170 | 240     | 300
 WiFi on, wired connection, no sd            |     | 277	    |
 WiFi on, wired connection, no sd, max. load |     | 315     |
 
-Disabling the WiFi on the board saves ~20mA 
+Disabling the WiFi on the board saves ~20mA
+
+Typical mobile phone battery is 800mA - 2000mA
 
 ----
- 
 ## Phonegap Overview ##
 
 - HTML5
@@ -168,6 +192,18 @@ Disabling the WiFi on the board saves ~20mA
 - Phonegap Plugin (Accelerometer, GPS, Camera, Media (audio), UI, etc)
 - Third-Party Plugin (Paypal, Urban Airship, Push, in-app Purchase, QR-code reader, [etc](https://cordova.apache.org/plugins/))
 - Javascript Library (User Interface, HTML5 API, etc)
-- Online Service (Parse (DB), Firebase (DB), PubHub (RT Messaging), Pushbot, etc)
+- Online Service (Parse (DB), Firebase (DB), PubHub (RT Messaging), Pushbot (Push Messaging/Twitter) , etc)
+
+----
+## HTML view ##
+
+    Temperature <span id=data></span>
+
+----
+## Ajax and JQuery ##
+
+    $.get(URL, function(data) {
+        $('#data').text(data);
+    });
 
 
