@@ -2,13 +2,13 @@
 Date: 2016-05-02<br>
 Last Update: 2016-05-03
 
+Ghustavo: make less abstract, more relatable
+
 1. Quick Videos
 2. What is IoT?
 3. Human Senses
 4. System Overview
 5. Resistive Sensors
-6. CPU Vendors
-7. Sensor Vendors
 8. Ohm's Law
 9. Voltage Divider
 10. Close Up of Arduino Schematic
@@ -22,6 +22,8 @@ Last Update: 2016-05-03
 17. Phonegap Tools
 18. HTML view
 19. Ajax and JQuery
+6. CPU Vendors
+7. Sensor Vendors
 
 ----
 ## Quick Videos ##
@@ -37,6 +39,8 @@ Mark Zuckerberg | CEO Facebook          | [16m14s-16m51s](https://www.youtube.co
 ## What is IoT? ##
 
 > One or more sensors connected to a CPU (or mcpu) that communicates with the Internet
+
+Ghustavo: make less technical, make more sexy
 
 ----
 ## Human Senses ##
@@ -80,36 +84,12 @@ https://en.wikipedia.org/wiki/Sense
 - small images of sensors
 
 ----
-## CPU Vendors ##
-
-- [Arduino Yun](https://www.arduino.cc/en/Main/ArduinoBoardYun), Yun Mini, Tian
-- [Particle Photon Kit](https://store.particle.io/)
-- [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/)
-- [BeagleBone Black](https://beagleboard.org/black)
-- images of boards
-
-----
-## Sensor Vendors ##
-
-- [adafruit](http://www.adafruit.com/)
-- [sparkfun](http://www.sparkfun.com/)
-- [mouser](http://www.mouser.com/)
-- [digikey](http://www.digikey.com/)
-- [Seeed Studio](http://www.seeedstudio.com/depot/)
-- [Newark](http://www.newark.com/)
-- [Jameco](http://www.jameco.com/)
-- icons of vendors
-- a few images of sensors
-- [Arduino List](http://playground.arduino.cc/Main/Resources)
-
-----
 ## Ohm's Law ##
 
 Ohms Law => I = V / R
 
 - icon of Ohm
 - image of Ohm's Law
-
 
 ----
 ## Voltage Divider ##
@@ -124,7 +104,6 @@ Ohms Law => I = V / R
 
 - drawing of overview
 - drawing of close up
-
 
 ----
 ## Thermistor Formula ##
@@ -181,22 +160,6 @@ Write  | http://myArduinoYun.local/arduino/analog/1/1023 | `analogWrite(A1,1023)
 - image of Push
 
 ----
-## Yun Power Consumption ##
-
---------------------------------------------|-----|---------|------ 
- Configuration*                             | min | typical |  max
---------------------------------------------|-----|---------|------ 
-WiFi on, no wired connection, no sd         | 170 | 240     | 300
-WiFi on, wired connection, no sd            |     | 277	    |
-WiFi on, wired connection, no sd, max. load |     | 315     |
-
-- Power consumption in mA 
-- Disabling the WiFi on the board saves ~20mA
-- Typical mobile phone battery is 800mA - 2000mA
-
-http://playground.arduino.cc/Hardware/Yun#power_consumption
-
-----
 ## Phonegap Overview ##
 
 Tools available
@@ -220,5 +183,44 @@ Tools available
     $.get(URL, function(data) {
         $('#data').text(data);
     });
+
+----
+## CPU Vendors ##
+
+- [Arduino Yun](https://www.arduino.cc/en/Main/ArduinoBoardYun), Yun Mini, Tian
+- [Particle Photon Kit](https://store.particle.io/)
+- [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/)
+- [BeagleBone Black](https://beagleboard.org/black)
+- images of boards
+
+----
+## Sensor Vendors ##
+
+- [adafruit](http://www.adafruit.com/)
+- [sparkfun](http://www.sparkfun.com/)
+- [mouser](http://www.mouser.com/)
+- [digikey](http://www.digikey.com/)
+- [Seeed Studio](http://www.seeedstudio.com/depot/)
+- [Newark](http://www.newark.com/)
+- [Jameco](http://www.jameco.com/)
+- icons of vendors
+- a few images of sensors
+- [Arduino List](http://playground.arduino.cc/Main/Resources)
+
+----
+## Yun Power Consumption ##
+
+--------------------------------------------|-----|---------|------ 
+ Configuration*                             | min | typical |  max
+--------------------------------------------|-----|---------|------ 
+WiFi on, no wired connection, no sd         | 170 | 240     | 300
+WiFi on, wired connection, no sd            |     | 277	    |
+WiFi on, wired connection, no sd, max. load |     | 315     |
+
+- Power consumption in mA 
+- Disabling the WiFi on the board saves ~20mA
+- Typical mobile phone battery is 800mA - 2000mA
+
+http://playground.arduino.cc/Hardware/Yun#power_consumption
 
 
