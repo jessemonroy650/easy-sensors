@@ -11,7 +11,7 @@ Date: 2016-05-02
 8. Ohm's Law
 9. Voltage Divider
 10. Close Up of Arduino Schematic
-11. Sensor Formula
+11. Thermistor Formula
 12. Arduino Code
 13. Bridge Examples
 14. Control Protocol
@@ -93,13 +93,12 @@ https://en.wikipedia.org/wiki/Sense
 - [Seeed Studio](http://www.seeedstudio.com/depot/)
 - [Newark](http://www.newark.com/)
 - [Jameco](http://www.jameco.com/)
-
 - [Arduino List](http://playground.arduino.cc/Main/Resources)
 
 ----
 ## Ohm's Law ##
 
-Ohms Law = I = V / R
+Ohms Law => I = V / R
 
 - icon of Ohm
 - image of Ohm's Law
@@ -121,7 +120,7 @@ Ohms Law = I = V / R
 
 
 ----
-## Sensor Formula ##
+## Thermistor Formula ##
 
 - http://playground.arduino.cc/ComponentLib/Thermistor2
 - http://www.eidusa.com/Electronics_Kits_TEMP_THERMISTOR_1.htm
@@ -137,7 +136,7 @@ Ohms Law = I = V / R
     void loop () {
          /* ::: */
          temp = analogread(a0);
-         transTemp = translate(tem);
+         transTemp = translate(temp);
          print (transTemp);
          delay (1000 * secondsDelay);
          /* ::: */
@@ -157,10 +156,11 @@ Ohms Law = I = V / R
 ----
 ## Control Protocol ##
 
-- http://myArduinoYun.local/arduino/analog/1 : `analogRead(A1);`
-- http://myArduinoYun.local/arduino/analog/1/0 : `analogWrite(A1,0);`
-- http://myArduinoYun.local/arduino/analog/1/1023 : `analogWrite(A1,1023);`
-
+URL | translates to code
+----|--------------------
+http://myArduinoYun.local/arduino/analog/1      | `analogRead(A1);`
+http://myArduinoYun.local/arduino/analog/1/0    | `analogWrite(A1,0);`
+http://myArduinoYun.local/arduino/analog/1/1023 | `analogWrite(A1,1023);`
 
 ----
 ## Polling vs Push ##
