@@ -1,6 +1,7 @@
 # Anatomy of an IoT System #
 Date: 2016-05-02
 
+0. Quick Videos
 1. System Overview
 2. Resistive Sensors
 3. Voltage Divider
@@ -20,7 +21,7 @@ Date: 2016-05-02
 Person          | Organization          | time marks
 ----------------|-----------------------|------------
 Jeff Bezos      | CEO Amazon            | [0s-11s](https://www.youtube.com/watch?v=QoqohmccTSc)
-Steve Jobs      | CEO Apple Computers   | [12s-32s](https://www.youtube.com/v/QoqohmccTSc&start=12&end=33)
+Steve Jobs      | CEO Apple Computers   | [12s-32s](https://www.youtube.com/watch?v=QoqohmccTSc&start=12&end=33)
 Kevin Systrom   | CEO Instagram         | [8m8s-8m34s](https://www.youtube.com/watch?v=QoqohmccTSc&start=489)
 Mark Zuckerberg | CEO Facebook          | [16m14s-16m51s](https://www.youtube.com/watch?v=QoqohmccTSc&start=975)
 
@@ -42,9 +43,9 @@ https://en.wikipedia.org/wiki/Sense
 3. **taste** - gustaoception
 4. **smell** - olfacception
 5. **touch** - tactioception
-6. balance - equilibrioception
-7. temperature - thermoception
-8. vibration - mechanoreception
+6. *balance* - equilibrioception
+7. *temperature* - thermoception
+8. *vibration* - mechanoreception
 
 | Sense  |    sensor   |  source/price |
 |--------|-------------|--------------:|
@@ -59,3 +60,38 @@ https://en.wikipedia.org/wiki/Sense
 | temperature | temperature<br>(TMP36) | [adafruid](http://www.adafruit.com/products/165) $1.50<br>[sparkfun](https://www.sparkfun.com/products/10988) $1.50<br>[ebay](http://www.ebay.com/itm/1pcs-TMP36GT9-ORIGINAL-Low-Voltage-Temperature-Sensors-/181004901020) $1.36<br>[ebay](http://www.ebay.com/itm/5pcs-TMP36GT9-ORIGINAL-Low-Voltage-Temperature-Sensors-/181004901551) $5.31 |
 | vibration | Piezo Vibration<br>(small) | [adafruit](http://www.adafruit.com/products/1740) $0.95<br>[sparkfun](https://www.sparkfun.com/products/9198) $2.95<br>[ebay](http://www.ebay.com/itm/Piezo-Vibration-Sensor-Small-Vertical-/271618771586) $2.79 |
 
+- icons of 5 senses
+- small images of sensors
+
+----
+
+## Ohm's Law ##
+
+Ohms Law = I = V / R
+
+- icon of Ohm
+- image of Ohm's Law
+
+
+----
+
+## Voltage Divider ##
+
+> a series of resistors or capacitors that can be tapped at any intermediate point to produce a specific fraction of the voltage applied between its ends.
+
+
+- image of voltage divider circuit
+
+----
+
+## Close Up of Arduino Schematic ##
+
+- drawing of overview
+- drawing of close up
+
+
+----
+
+## Sensor Formula ##
+
+-
