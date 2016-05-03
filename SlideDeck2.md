@@ -13,6 +13,8 @@ Last Update: 2016-05-03
 9. Voltage Divider
 10. Close Up of Arduino Schematic
 11. Thermistor Formula
+11. Thermistor Table
+
 12. Arduino Code
 13. Bridge Examples
 14. Control Protocol
@@ -28,12 +30,14 @@ Last Update: 2016-05-03
 Person          | Organization          | time marks
 ----------------|-----------------------|------------
 Jeff Bezos      | CEO Amazon            | [0s-11s](https://www.youtube.com/watch?v=QoqohmccTSc)
-Steve Jobs      | CEO Apple Computers   | [12s-32s](https://www.youtube.com/watch?v=QoqohmccTSc&start=12&end=33)
+Steve Jobs      | CEO Apple Computers   | [12s-32s]
 Kevin Systrom   | CEO Instagram         | [8m8s-8m34s](https://www.youtube.com/watch?v=QoqohmccTSc&start=489)
 Mark Zuckerberg | CEO Facebook          | [16m14s-16m51s](https://www.youtube.com/watch?v=QoqohmccTSc&start=975)
 
 ----
 ## What is IoT? ##
+
+> One or more sensors connected to a CPU (or mcpu) that communicates with the Internet
 
 ----
 ## Human Senses ##
@@ -83,6 +87,7 @@ https://en.wikipedia.org/wiki/Sense
 - [Particle Photon Kit](https://store.particle.io/)
 - [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/)
 - [BeagleBone Black](https://beagleboard.org/black)
+- images of boards
 
 ----
 ## Sensor Vendors ##
@@ -94,6 +99,8 @@ https://en.wikipedia.org/wiki/Sense
 - [Seeed Studio](http://www.seeedstudio.com/depot/)
 - [Newark](http://www.newark.com/)
 - [Jameco](http://www.jameco.com/)
+- icons of vendors
+- a few images of sensors
 - [Arduino List](http://playground.arduino.cc/Main/Resources)
 
 ----
@@ -130,6 +137,9 @@ Ohms Law => I = V / R
 - 1/T = a + b ln(R) + c (ln(3))^3
 
 ----
+## Thermistor Table ##
+
+----
 ## Arduino Code ##
 
     const secondsDelay  3;
@@ -151,8 +161,8 @@ Action        | URL | translates to code
 --------------|-----|--------------------
 Read Digital  | http://myArduinoYun.local/arduino/digital/13     | `digitalRead(13);`
 Write Digital | http://myArduinoYun.local/arduino/digital/13/1   | `digitalWrite(13,1);`
-Write Analog  | http://myArduinoYun.local/arduino/analog/9/123   | `analogWrite(9,123);`
 Read Analog   | http://myArduinoYun.local/arduino/analog/2       | `analogRead(2);`
+Write Analog  | http://myArduinoYun.local/arduino/analog/9/123   | `analogWrite(9,123);`
 Set Input     | http://myArduinoYun.local/arduino/mode/13/input  | `pinMode(13, INPUT);`
 Set Output    | http://myArduinoYun.local/arduino/mode/13/output | `pinMode(13, OUTPUT);` 
 
@@ -168,13 +178,15 @@ Write  | http://myArduinoYun.local/arduino/analog/1/1023 | `analogWrite(A1,1023)
 ----
 ## Polling vs Push ##
 
+- image of Polling
+- image of Push
 
 ----
 ## Yun Power Consumption ##
 
 http://playground.arduino.cc/Hardware/Yun#power_consumption
 
-Power consumption in mA |
+Power consumption in mA | - | - | - |
 --------------------------------------------|-----|---------|------ 
  Configuration                              | min | typical |  max
 --------------------------------------------|-----|---------|------ 
