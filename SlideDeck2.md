@@ -13,8 +13,7 @@ Last Update: 2016-05-03
 9. Voltage Divider
 10. Close Up of Arduino Schematic
 11. Thermistor Formula
-11. Thermistor Table
-
+12. Thermistor Table
 12. Arduino Code
 13. Bridge Examples
 14. Control Protocol
