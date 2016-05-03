@@ -100,3 +100,23 @@ Ohms Law = I = V / R
 - R = 10K * { (2V / Vout) -1}
 - 1/T = a + b ln(R) + c (ln(3))^3
 
+----
+
+## Bridge Tutorial ##
+
+- http://myArduinoYun.local/arduino/digital/13 : calls `digitalRead(13);`
+- http://myArduinoYun.local/arduino/digital/13/1 : calls `digitalWrite(13,1);`
+- http://myArduinoYun.local/arduino/analog/9/123 : `analogWrite(9,123);`
+- http://myArduinoYun.local/arduino/analog/2 : `analogRead(2);`
+- http://myArduinoYun.local/arduino/mode/13/input : `pinMode(13, INPUT);`
+- http://myArduinoYun.local/arduino/mode/13/output : `pinMode(13, OUTPUT);` 
+
+----
+
+## Control Protocol ##
+
+- http://myArduinoYun.local/arduino/analog/1 : `analogRead(A1);`
+- http://myArduinoYun.local/arduino/analog/1/0 : `analogWrite(A1,0);`
+- http://myArduinoYun.local/arduino/analog/1/1023 : `analogWrite(A1,1023);`
+
+
