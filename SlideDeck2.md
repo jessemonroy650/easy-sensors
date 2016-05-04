@@ -205,8 +205,8 @@ Tools available
 | WiFi on, wired connection, no sd, max. load |     | 315     |
 
 - Power consumption in mA 
-- Disabling the WiFi on the board saves ~20mA
-- Typical mobile phone battery is 800mA - 2000mA
+- Disabling the WiFi on the board saves ~20mAh
+- Typical mobile phone battery is 800mAh - 2000mAh
 
 http://playground.arduino.cc/Hardware/Yun#power_consumption
 
