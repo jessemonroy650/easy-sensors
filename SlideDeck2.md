@@ -198,12 +198,14 @@ Tools available
 ----
 ## Yun Power Consumption ##
 
---------------------------------------------|-----|---------|------ 
- Configuration*                             | min | typical |  max
---------------------------------------------|-----|---------|------ 
-WiFi on, no wired connection, no sd         | 170 | 240     | 300
-WiFi on, wired connection, no sd            |     | 277	    |
-WiFi on, wired connection, no sd, max. load |     | 315     |
+
+|--------------------------------------------|-----|---------|------ 
+| Configuration*                             | min | typical |  max
+|--------------------------------------------|-----|---------|------ 
+| WiFi on, no wired connection, no sd         | 170 | 240     | 300
+| WiFi on, wired connection, no sd            |     | 277     |
+| WiFi on, wired connection, no sd, max. load |     | 315     |
+
 
 - Power consumption in mA 
 - Disabling the WiFi on the board saves ~20mA
